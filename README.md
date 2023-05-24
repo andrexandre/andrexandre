@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrexandre
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning anything about programming
-- 💞️ I’m looking to collaborate on any project that can help me be better at coding
+- 💞️ I’m looking to collaborate on any project that can make me better at coding
 
 
 <!---
