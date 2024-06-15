@@ -4,7 +4,8 @@
 - 💞️ I'm eager to collaborate on projects that can enhance my coding experience.
 - 📫 How to reach me: analexan@student.42lisboa.com
 
-#### 💻 My c++ projects done at 42:
+## 💻 My projects done at 42:
+[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 - <a href="https://github.com/andrexandre/cpp-modules/tree/main/cpp9">Cpp 09</a> - Standard Template Library
 
@@ -25,6 +26,16 @@
 - <a href="https://github.com/andrexandre/cpp-modules/tree/main/cpp1">Cpp 01</a> - Memory allocation, pointers to members, references, switch statement
 
 - <a href="https://github.com/andrexandre/cpp-modules/tree/main/cpp0">Cpp 00</a> - Learning the fundamentals (Namespaces, classes, member functions, etc...)
+<br />
 
+[![Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
+- [Projects](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
+- WIP...
+#
+### 💻 Tech Stack:
+[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,cmake,git,SPACE,github,vscode,visualstudio,discord,SPACE,linux,ubuntu,windows)](https://skillicons.dev)
+#
+[![](https://visitcount.itsvg.in/api?id=andrexandre&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 --->
