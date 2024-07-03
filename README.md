@@ -1,3 +1,4 @@
+# I SHOULD NOT LEAVE MY ACCOUNTS SIGNIN ON STRANGE COMPUTERS (THIS TIME A FELLOW FRIEND HAS DONE THAT FOR YOU)
 - 👋 Howdy, I'm @andrexandre.
 - 👀 I have a keen interest in coding and software development.
 - 🌱 I'm in the process of expanding my programming knowledge and skills at [42 Lisboa](http://www.42lisboa.com).
