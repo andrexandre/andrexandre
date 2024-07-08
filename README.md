@@ -1,4 +1,7 @@
-# I SHOULD NOT LEAVE MY ACCOUNTS SIGNIN ON STRANGE COMPUTERS (THIS TIME A FELLOW FRIEND HAS DONE THAT FOR YOU)
+<!---
+I SHOULD NOT LEAVE MY ACCOUNTS SIGNIN ON STRANGE COMPUTERS (THIS TIME A FELLOW FRIEND HAS DONE THAT FOR YOU)
+thanks fellow friend, can u message me on slack: analexan
+--->
 - 👋 Howdy, I'm @andrexandre.
 - 👀 I have a keen interest in coding and software development.
 - 🌱 I'm in the process of expanding my programming knowledge and skills at [42 Lisboa](http://www.42lisboa.com).
@@ -38,5 +41,3 @@
 [![Skills](https://skillicons.dev/icons?i=c,cpp,bash,cmake,git,SPACE,github,vscode,visualstudio,discord,SPACE,linux,ubuntu,windows)](https://skillicons.dev)
 #
 [![](https://visitcount.itsvg.in/api?id=andrexandre&icon=0&color=0)](https://visitcount.itsvg.in)
-<!---
---->
