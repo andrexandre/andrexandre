@@ -1,5 +1,5 @@
+# 👋 Howdy, I'm andrexandre
 
-- 👋 Howdy, I'm @andrexandre.
 - 👀 I have a keen interest in coding and software development.
 - 🌱 I'm in the process of expanding my programming knowledge and skills at [42 Lisboa](http://www.42lisboa.com).
 - 💞️ I'm eager to collaborate on projects that can enhance my coding experience.
@@ -39,9 +39,10 @@
 - WIP...
 <!---
 [![Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+https://capsule-render.vercel.app/
 --->
 #
 ### 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,cmake,git,SPACE,github,vscode,visualstudio,discord,SPACE,linux,ubuntu,windows)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,SPACE,github,vscode,SPACE,linux,ubuntu,windows)](https://skillicons.dev)
 #
-[![](https://visitcount.itsvg.in/api?id=andrexandre&icon=1&color=1)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrexandre&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily%2FTotal+Views&edge_flat=false)](https://hits.seeyoufarm.com)
