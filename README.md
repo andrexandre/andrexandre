@@ -1,12 +1,20 @@
-# 👋 Howdy, I'm andrexandre
+# 👋 Howdy, I'm `andrexandre`
 
-- 👀 I have a keen interest in coding and software development.
-- 🌱 I'm in the process of expanding my programming knowledge and skills at [42 Lisboa](http://www.42lisboa.com).
-- 💞️ I'm eager to collaborate on projects that can enhance my coding experience.
-- 📫 How to reach me: analexan@student.42lisboa.com
+#### I'm a software developer student at [42 Lisboa](http://www.42lisboa.com)
+#### I'm also passionate about learning new technologies
 
-## 💻 My projects done at 42:
-[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+<!-- 
+## Objectives
+- Hi
+- Im a ...
+- projects done
+- tech stack
+- contact me
+ -->
+
+## 🌱 Projects done at 42
+
+[![CPP](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 <details open>
 <summary>Cpp modules</summary>
@@ -33,16 +41,23 @@
 </details>
 <br />
 
-[![Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 - [Projects](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
 - WIP...
+
 <!---
 [![Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 https://capsule-render.vercel.app/
 --->
-#
-### 💻 Tech Stack:
+
+## 💻 Tech Stack
 [![Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,SPACE,github,vscode,SPACE,linux,ubuntu,windows)](https://skillicons.dev)
+
+## 💬 Contact me (WIP)
+[![Email](assets/square-envelope-solid.svg)](mailto:analexan@student.42lisboa.com)
+[![Website](https://skillicons.dev/icons?i=ros)](https://andrexandre.github.io)
+[![linkedin](https://skillicons.dev/icons?i=SPACE,linkedin)](https://linkedin.com)
+
 #
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrexandre&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily%2FTotal+Views&edge_flat=false)](https://hits.seeyoufarm.com)
