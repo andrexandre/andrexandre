@@ -1,22 +1,23 @@
-# 👋 Howdy, I'm `andrexandre`
 
-#### I'm a software developer student at [42 Lisboa](http://www.42lisboa.com)
-#### I'm also passionate about learning new technologies
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Howdy,%20I'm%20André)](https://capsule-render.vercel.app/)
 
+
+## 🔍 About me
+- 💻 Software developer student at [42 Lisboa](http://www.42lisboa.com)
+- ✨ Passionate about learning new technologies
+- 📚 Currently learning tailwind css
+<br />
 <!-- 
-## Objectives
-- Hi
-- Im a ...
-- projects done
+## Update:
+- projects
 - tech stack
-- contact me
  -->
 
 ## 🌱 Projects done at 42
 
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
-<details open>
+<details>
 <summary>Cpp modules</summary>
   
 - [Cpp 09](https://github.com/andrexandre/cpp-modules/tree/main/cpp9) - Standard Template Library
@@ -45,19 +46,24 @@
 
 - [Projects](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
 - WIP...
+<br />
 
-<!---
-[![Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-https://capsule-render.vercel.app/
---->
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+- [inception](https://github.com/andrexandre/inception)
 
 ## 💻 Tech Stack
-[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,SPACE,github,vscode,SPACE,linux,ubuntu,windows)](https://skillicons.dev)
+### Programming languages
+[![Skills](https://skillicons.dev/icons?i=c,cpp,bash)](https://skillicons.dev)
 
-## 💬 Contact me (WIP)
+### Tech skills
+[![Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
+
+### Apps and OS's
+[![Skills](https://skillicons.dev/icons?i=github,vscode,SPACE,ubuntu,windows)](https://skillicons.dev)
+
+## 💬 Contact me
 [![Email](assets/square-envelope-solid.svg)](mailto:analexan@student.42lisboa.com)
-[![Website](https://skillicons.dev/icons?i=ros)](https://andrexandre.github.io)
-[![linkedin](https://skillicons.dev/icons?i=SPACE,linkedin)](https://linkedin.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-alexandre-73ab7a348/)
 
 #
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrexandre&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily%2FTotal+Views&edge_flat=false)](https://hits.seeyoufarm.com)
