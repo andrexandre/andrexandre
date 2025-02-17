@@ -1,6 +1,5 @@
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Howdy,%20I'm%20André)](https://capsule-render.vercel.app/)
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Howdy,%20I'm%20André&animation=fadeIn)](https://capsule-render.vercel.app/)
 
 ## 🔍 About me
 - 💻 Software developer student at [42 Lisboa](http://www.42lisboa.com)
