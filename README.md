@@ -6,43 +6,54 @@
 - 💻 Software developer student at [42 Lisboa](http://www.42lisboa.com)
 - ✨ Passionate about learning new technologies
 - 📚 Currently learning frontend development with vite and tailwind css
+
 <br />
 
 ## 🌱 Projects
 
-[![C](https://skillicons.dev/icons?i=c)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
+### [![C](https://skillicons.dev/icons?i=c)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
 
 - [libft](https://github.com/andrexandre/libft) [printf](https://github.com/andrexandre/ft_printf) [get_next_line](https://github.com/andrexandre/get_next_line) - Recreation of various standard C library functions
 - [so_long](https://github.com/andrexandre/so_long) - Simple 2d game using a library like openGL
 - [push_swap](https://github.com/andrexandre/push_swap) - Algorithm for sorting numbers on a stack
-- minishell - Simple implementation of a shell that involves pipes, redirections, environment variables and signals
-- cub3d - A raycasting-based 3D game engine using a library like openGL
-<!-- [minishell](https://github.com/andrexandre/minishell) -->
-<!-- [cub3D](https://github.com/andrexandre/cub3D) -->
+- [minishell](https://github.com/andrexandre/minishell) - Simple implementation of a shell that involves pipes, redirections, environment variables and signals
+- [cub3D](https://github.com/andrexandre/cub3D) - A raycasting-based 3D game engine using a library like openGL
 
-<br />
+### [![CPP](https://skillicons.dev/icons?i=cpp)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 
-[![CPP](https://skillicons.dev/icons?i=cpp)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+- [cpp-modules](https://github.com/andrexandre/cpp-modules) - 10 little C++ projects about OOP, memory management, templates, STL and advanced C++ features
+- [ft_irc](https://github.com/andrexandre/ft_irc) - IRC server, compatible with the [hexchat](https://hexchat.github.io) client
 
-- [cpp-modules](https://github.com/andrexandre/cpp-modules) - 10 little c++ projects about OOP, memory management, templates, STL and advanced C++ features
-- ft_irc - IRC server, compatible with the [hexchat](https://hexchat.github.io) client
-<!-- [ft_irc](https://github.com/andrexandre/ft_irc) -->
-
-<br />
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/andrexandre?tab=repositories&q=&type=&language=dockerfile&sort=)
+### [![DOCKER](https://skillicons.dev/icons?i=docker)](https://github.com/andrexandre?tab=repositories&q=&type=&language=dockerfile&sort=)
 
 - [inception](https://github.com/andrexandre/inception) - Orchestration of a LEMP stack with wordpress using Dockerfiles and docker-compose
 
+### [![BASH](https://skillicons.dev/icons?i=bash)](https://github.com/andrexandre?tab=repositories&q=&type=&language=shell&sort=)
+
+- [42pdf_downloader](https://github.com/andrexandre/42pdf_downloader) - Script to instantly download/open pdfs from 42 school
+- [script](https://github.com/andrexandre/script) - Script designed to automate the installation and setup of a bunch of programs in Linux
+- [alias_manager](https://github.com/andrexandre/alias_manager) - Alias and shell functions manager
+
+<br />
+
 ## 💻 Tech Stack
 ### Programming languages
-[![Skills](https://skillicons.dev/icons?i=c,cpp,bash)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=c,cpp,bash)](https://skillicons.dev)
 
 ### Tech skills
-[![Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=git,linux,md)](https://skillicons.dev)
 
 ### Apps and OS's
-[![Skills](https://skillicons.dev/icons?i=github,vscode,SPACE,ubuntu,windows)](https://skillicons.dev)
+[![apps and os](https://skillicons.dev/icons?i=github,vscode,SPACE,ubuntu,windows)](https://skillicons.dev)
+
+<details>
+<summary>Familiar with</summary>
+
+[![familiar with](https://skillicons.dev/icons?i=wordpress,nginx,mysql,css,tailwind,bootstrap,html,js,ts,npm,vite,githubactions&perline=3)](https://skillicons.dev)
+
+</details>
+
+<br />
 
 ## 💬 Contact me
 [![Email](assets/square-envelope.svg)](mailto:analexan@student.42lisboa.com)
