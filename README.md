@@ -1,54 +1,38 @@
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Howdy,%20I'm%20André&animation=fadeIn)](https://capsule-render.vercel.app/)
+[![Header](assets/header.svg)](https://capsule-render.vercel.app/)
+<!-- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Howdy,%20I%27m%20Andr%C3%A9&animation=fadeIn -->
 
 ## 🔍 About me
 - 💻 Software developer student at [42 Lisboa](http://www.42lisboa.com)
 - ✨ Passionate about learning new technologies
-- 📚 Currently learning tailwind css
-<br />
-<!-- 
-## Update:
-- projects
-- tech stack
- -->
-
-## 🌱 Projects done at 42
-
-[![CPP](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-<details>
-<summary>Cpp modules</summary>
-  
-- [Cpp 09](https://github.com/andrexandre/cpp-modules/tree/main/cpp9) - Standard Template Library
-
-- [Cpp 08](https://github.com/andrexandre/cpp-modules/tree/main/cpp8) - Templated containers, iterators, algorithms
-
-- [Cpp 07](https://github.com/andrexandre/cpp-modules/tree/main/cpp7) - C++ templates
-
-- [Cpp 06](https://github.com/andrexandre/cpp-modules/tree/main/cpp6) - C++ casts
-
-- [Cpp 05](https://github.com/andrexandre/cpp-modules/tree/main/cpp5) - Catching Exceptions
-
-- [Cpp 04](https://github.com/andrexandre/cpp-modules/tree/main/cpp4) - Subtype polymorphism, abstract classes, interfaces
-
-- [Cpp 03](https://github.com/andrexandre/cpp-modules/tree/main/cpp3) - Inheritance
-
-- [Cpp 02](https://github.com/andrexandre/cpp-modules/tree/main/cpp2) - Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form
-
-- [Cpp 01](https://github.com/andrexandre/cpp-modules/tree/main/cpp1) - Memory allocation, pointers to members, references, switch statement
-
-- [Cpp 00](https://github.com/andrexandre/cpp-modules/tree/main/cpp0) - Learning the fundamentals (Namespaces, classes, member functions, etc...)
-</details>
+- 📚 Currently learning frontend development with vite and tailwind css
 <br />
 
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+## 🌱 Projects
 
-- [Projects](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
-- WIP...
+[![C](https://skillicons.dev/icons?i=c)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
+
+- [libft](https://github.com/andrexandre/libft) [printf](https://github.com/andrexandre/ft_printf) [get_next_line](https://github.com/andrexandre/get_next_line) - Recreation of various standard C library functions
+- [so_long](https://github.com/andrexandre/so_long) - Simple 2d game using a library like openGL
+- [push_swap](https://github.com/andrexandre/push_swap) - Algorithm for sorting numbers on a stack
+- minishell - Simple implementation of a shell that involves pipes, redirections, environment variables and signals
+- cub3d - A raycasting-based 3D game engine using a library like openGL
+<!-- [minishell](https://github.com/andrexandre/minishell) -->
+<!-- [cub3D](https://github.com/andrexandre/cub3D) -->
+
 <br />
 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-- [inception](https://github.com/andrexandre/inception)
+[![CPP](https://skillicons.dev/icons?i=cpp)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+
+- [cpp-modules](https://github.com/andrexandre/cpp-modules) - 10 little c++ projects about OOP, memory management, templates, STL and advanced C++ features
+- ft_irc - IRC server, compatible with the [hexchat](https://hexchat.github.io) client
+<!-- [ft_irc](https://github.com/andrexandre/ft_irc) -->
+
+<br />
+
+[![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/andrexandre?tab=repositories&q=&type=&language=dockerfile&sort=)
+
+- [inception](https://github.com/andrexandre/inception) - Orchestration of a LEMP stack with wordpress using Dockerfiles and docker-compose
 
 ## 💻 Tech Stack
 ### Programming languages
@@ -61,8 +45,8 @@
 [![Skills](https://skillicons.dev/icons?i=github,vscode,SPACE,ubuntu,windows)](https://skillicons.dev)
 
 ## 💬 Contact me
-[![Email](assets/square-envelope-solid.svg)](mailto:analexan@student.42lisboa.com)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-alexandre-73ab7a348/)
+[![Email](assets/square-envelope.svg)](mailto:analexan@student.42lisboa.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andre-alexandre---/)
 
 #
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrexandre&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily%2FTotal+Views&edge_flat=false)](https://hits.seeyoufarm.com)
