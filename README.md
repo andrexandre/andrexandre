@@ -5,7 +5,7 @@
 ## 🔍 About me
 - 💻 Software developer student at [42 Lisboa](http://www.42lisboa.com)
 - ✨ Passionate about learning new technologies
-- 📚 Currently learning frontend development with vite and tailwind css
+- 📚 Currently learning frontend development with tailwind css and vite
 
 <br />
 
@@ -14,10 +14,10 @@
 ### [![C](https://skillicons.dev/icons?i=c)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
 
 - [libft](https://github.com/andrexandre/libft) [printf](https://github.com/andrexandre/ft_printf) [get_next_line](https://github.com/andrexandre/get_next_line) - Recreation of various standard C library functions
-- [so_long](https://github.com/andrexandre/so_long) - Simple 2d game using a library like openGL
+- [so_long](https://github.com/andrexandre/so_long) - Simple 2d game using the [minilibx](https://github.com/42Paris/minilibx-linux) library
 - [push_swap](https://github.com/andrexandre/push_swap) - Algorithm for sorting numbers on a stack
 - [minishell](https://github.com/andrexandre/minishell) - Simple implementation of a shell that involves pipes, redirections, environment variables and signals
-- [cub3D](https://github.com/andrexandre/cub3D) - A raycasting-based 3D game engine using a library like openGL
+- [cub3D](https://github.com/andrexandre/cub3D) - A raycasting-based 3D game engine using the [minilibx](https://github.com/42Paris/minilibx-linux) library
 
 ### [![CPP](https://skillicons.dev/icons?i=cpp)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 
@@ -48,6 +48,8 @@
 
 <details>
 <summary>Familiar with</summary>
+
+<br />
 
 [![familiar with](https://skillicons.dev/icons?i=wordpress,nginx,mysql,css,tailwind,bootstrap,html,js,ts,npm,vite,githubactions&perline=3)](https://skillicons.dev)
 
