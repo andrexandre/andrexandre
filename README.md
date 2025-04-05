@@ -38,7 +38,7 @@
 
 ## 💻 Tech Stack
 ### Programming languages
-[![languages](https://skillicons.dev/icons?i=c,cpp,bash)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=c,cpp,html,bash)](https://skillicons.dev)
 
 ### Tech skills
 [![skills](https://skillicons.dev/icons?i=docker,git,linux,md)](https://skillicons.dev)
@@ -54,12 +54,3 @@
 [![familiar with](https://skillicons.dev/icons?i=wordpress,nginx,mysql,css,tailwind,bootstrap,html,js,ts,npm,vite,githubactions&perline=3)](https://skillicons.dev)
 
 </details>
-
-<br />
-
-## 💬 Contact me
-[![Email](assets/square-envelope.svg)](mailto:analexan@student.42lisboa.com)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andre-alexandre---/)
-
-#
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrexandre&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily%2FTotal+Views&edge_flat=false)](https://hits.seeyoufarm.com)
