@@ -3,13 +3,17 @@
 <!-- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Howdy,%20I%27m%20Andr%C3%A9&animation=fadeIn -->
 
 ## 🔍 About me
-- 💻 Software developer student at [42 Lisboa](https://www.42lisboa.com)
-- ✨ Passionate about learning new technologies
-- 📚 Currently learning frontend development with [tailwind css](https://tailwindcss.com) and [vite](https://vite.dev)
+- 💻 Software developer at [42 Lisboa](https://www.42lisboa.com)
+- ✨ Passionate about fullstack and native app development
+- 📚 Always eager to learn and continually improve myself
 
 <br />
 
 ## 🌱 Projects
+
+### [![WEB](https://skillicons.dev/icons?i=html,css,js,ts,docker,tailwind,vite,npm)](https://github.com/andrexandre/ft_transcendence)
+
+- [ft_transcendence](https://github.com/andrexandre/ft_transcendence) - Full-stack web application centered around a Pong game competition
 
 ### [![C](https://skillicons.dev/icons?i=c)](https://github.com/andrexandre?tab=repositories&q=&type=&language=c&sort=)
 
@@ -37,20 +41,18 @@
 <br />
 
 ## 💻 Tech Stack
+### Frontend
+[![frontend](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite,npm)](https://skillicons.dev)
+
 ### Programming languages
-[![languages](https://skillicons.dev/icons?i=c,cpp,html,bash)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=c,cpp,bash)](https://skillicons.dev)
 
 ### Tech skills
 [![skills](https://skillicons.dev/icons?i=docker,git,linux,md)](https://skillicons.dev)
 
-### Apps and OS's
-[![apps and os](https://skillicons.dev/icons?i=github,vscode,SPACE,ubuntu,windows)](https://skillicons.dev)
+### Apps/Operating systems
+[![apps and os](https://skillicons.dev/icons?i=github,vscode,ubuntu,windows)](https://skillicons.dev)
 
-<details>
-<summary>Familiar with</summary>
+### Had contact with
+[![had contact](https://skillicons.dev/icons?i=wordpress,nginx,bootstrap,sqlite,mysql,githubactions)](https://skillicons.dev)
 
-<br />
-
-[![familiar with](https://skillicons.dev/icons?i=wordpress,nginx,mysql,css,tailwind,bootstrap,html,js,ts,npm,vite,githubactions&perline=3)](https://skillicons.dev)
-
-</details>
